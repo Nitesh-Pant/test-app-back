@@ -19,3 +19,21 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/Nitesh-Pant/test-app-back.git
 cd test-app-back
+```
+
+### 2. Install Dependencies
+
+Run the following command to install the necessary dependencies:
+
+```bash
+npm install
+
+```
+### 3.  Run the Application
+
+Start the server by running:
+
+```bash
+npm start
+
+```
